@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+I just added the word 10:03
+=======
 sklcmas;dlkcm cks;dlkas;dlc;sld kkdc;lsdk';lksd sdkvsd'k;cas;'dlkv sadk;aksd;'
+>>>>>>> parent of d1049b5 (Revert "random words")
